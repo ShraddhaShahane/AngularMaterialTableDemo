@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+    padding-bottom: 10px;
+  }
+  
+  .example-element-detail{
+    width: 100%;
+  }
+  
+  tr[mat-header-row] {
+    background: rgb(241, 240, 255) !important;
+  }
+  
+  .hide{
+    display: none;
+  }
