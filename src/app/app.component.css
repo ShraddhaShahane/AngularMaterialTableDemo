@@ -35,8 +35,11 @@
   
   /* Style for the chip items */
   .chip-item {
+    cursor: move;  
+  }
+
+  .drag-selection{
     cursor: move;
-   
   }
   
   mat-chip {
